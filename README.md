@@ -1,6 +1,6 @@
 ## Hi, I am Pravin Gayal! 👋
 
-My name is Pravin Gayal and I am an Enterprise Application Architect at Vibrent Health. I 🎓graduated from College of Engineering, Pune(COEP) with a Bachelor of Technology in Computer Science. 
+My name is Pravin Gayal and I am an Enterprise Application Architect at Vibrent Health with total of 9 years of experience in Software Development. I 🎓graduated from College of Engineering, Pune(COEP) with a Bachelor of Technology in Computer Science. 
 
 ## 🛠️ Technologies and Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JAVASCRIPT&logoColor=white&color=2bbc8a)
@@ -17,7 +17,7 @@ My name is Pravin Gayal and I am an Enterprise Application Architect at Vibrent 
 
 ## 📈 GitHub Stats
 
-![Pravin's GiHhub stats](https://github-readme-stats.vercel.app/api?username=pravin-gayal&show_icons=true&theme=radical&hide=contribs,prs&count_private=true)
+![Pravin's GiHhub stats](https://github-readme-stats.vercel.app/api?username=pravin-gayal&show_icons=true&theme=default&hide=contribs,prs&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravin-gayal&layout=compact)](https://github.com/pravin-gayal/github-readme-stats)
 
