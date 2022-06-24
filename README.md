@@ -19,7 +19,7 @@ My name is Pravin Gayal and I am an Enterprise Application Architect at Vibrent 
 
 ![Pravin's GiHhub stats](https://github-readme-stats.vercel.app/api?username=pravin-gayal&show_icons=true&theme=radical&hide=contribs,prs&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravin-gayal&layout=compact)](https://github.com/Amanhacker/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravin-gayal&layout=compact)](https://github.com/pravin-gayal/github-readme-stats)
 
 
 <!--
